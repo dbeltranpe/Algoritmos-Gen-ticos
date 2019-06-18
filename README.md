@@ -1,4 +1,4 @@
-# Algoritmos-Gen-ticos
+# Algoritmos-Genéticos
 En este documento se presentarán las consideraciones que se tuvieron al desarrollar el ejercicio de maximizar las funciones  f(x) = X * Sen (10 π X) + 3 en el intervalo [-2, 2]. 2) y f(x) = X^3 * Sen (X) + X + 3 en el intervalo [-3, 3]
 
 
