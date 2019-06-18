@@ -23,7 +23,7 @@ Con lo anterior se tiene que el primer bit corresponde al signo y los siguientes
 
 2.	Con los resultados anteriores se aplicará la siguiente función que indicará la probabilidad asociada a la selección del individuo:
 
-    <img src="/docs/fnfit.png" alt="FnFitness"/>
+    <img src="/docs/fnfit.png" alt="FnFitness"/><br>
     Donde fi = Función Fitness
 
 3.	De la población de resultados se asigna un número aleatorio y con este número se selecciona aquel valor que en la ruleta sea congruente al resultado, se tomará una muestra donde se elegirán los individuos a cruzar y mutar, es decir al final de elegir los individuos de la muestra habrá terminado el proceso de selección.
@@ -39,8 +39,10 @@ El número de individuos a seleccionar para el primer ejercicio el n=30 y para e
 
 
 <b>Evidencias de los Resultados</b>
+<center>
 <img src="/docs/evidencia1.png" alt="Evidencia1"/>
 <img src="/docs/evidencia2.png" alt="Evidencia2"/>
+</center>
 
 
 <b>Aclaraciones adicionales:</b> Si en alguno de los espacios aparece un [ ] es porque no hay elementos ya sea porque ninguno pasó la prueba de emparejamiento, de mutación u otra. Se tomó el rango para la población inicial más no para el resultado, es decir no evitamos que la respuesta saliera del rango ya que se supone que el algoritmo se da para que proporcione los mejores resultados dados de una población inicial. Pero si a consideración del usuario no es correcta, simplemente omita el resultado y elija una respuesta con su convicción.
